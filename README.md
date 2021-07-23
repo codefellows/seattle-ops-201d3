@@ -44,12 +44,12 @@ This course will utilize premade scenarios for certain classes. You'll also need
 - Class-10
   - This lab uses your own Windows 10 VM.
 - Class-11
-  - Download [ops201-class11.ova](https://www.icloud.com/iclouddrive/04vOcRhmbHyt7hiCuSLkx0tLg#ops201-class10).
+  - Download [ops201-class11.ova](https://www.icloud.com/iclouddrive/0WDQvKr5BEAVKda5zU4hnMqfA#ops201-class11-v2).
   - Download [EaseUS Recovery Tool](https://www.easeus.com/datarecoverywizard/free-data-recovery-software.htm).
   - Download [Darik's Boot and Nuke (DBAN) ISO file](https://sourceforge.net/projects/dban/files/dban/dban-2.3.0/dban-2.3.0_i586.iso/download).
 - Class-12
   - Download [pfSense .iso file](https://www.pfsense.org/download/).
 - Class-13
-  - Download [ops201-class13.ova](https://www.icloud.com/iclouddrive/0FhZ5c8V_B5ewgqJZfkp2e-DQ#ops201-class12).
+  - Download [ops201-class13.ova](https://www.icloud.com/iclouddrive/0iOFfu301yYZdLNKhnLV6fRVg#ops201-class13-v2).
 - Class-14
 - Class-15
